@@ -5,3 +5,4 @@ python:
 
 script: 
   - python hello.py
+  - python test.py
