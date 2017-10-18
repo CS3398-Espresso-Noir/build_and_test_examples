@@ -1,2 +1,2 @@
-print("Hello world from Travis CI")
+print("Travis CI test")
 
