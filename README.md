@@ -1,4 +1,4 @@
-https://travis-ci.org/CS3398-Espresso-Noir/build_and_test_examples.svg?branch=master
+![Build status](https://travis-ci.org/CS3398-Espresso-Noir/build_and_test_examples.svg?branch=master)
 
 Build and Test Examples
 =======================
