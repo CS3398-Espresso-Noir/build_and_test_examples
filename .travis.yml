@@ -4,4 +4,4 @@ python:
   - "2.7"
 
 script: 
-   - python helloZeb.py
+   - python helloVal.py
