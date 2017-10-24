@@ -1,2 +1,2 @@
-print("Hello Dr. Lehr\n")
-print("-Evan")
+print("Hello Dr. Lehr, how are you?\n")
+print("-Evan / Micah")
