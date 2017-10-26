@@ -1,2 +1,2 @@
-print("Hello Dr. Lehr!\n")
+print("Hello Dr. Lehr\n")
 print("-Valeria and Zeb")
